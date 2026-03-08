@@ -13,4 +13,4 @@ This repository is a record of my Leetcode solutions.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AbuTheMonke?theme=light&font=Recursive&ext=activity)
 
 
-<sub>**Disclaimer:** This document was written by me and formatted with the assistance of Gemini.</sub>
+<sub>This document was written by me and formatted with the assistance of Gemini.</sub>
