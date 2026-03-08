@@ -1,4 +1,4 @@
-# 🏆 LEETCODE GRIND
+# 🏆 LeetCode 
 
 
 ## 🛠️ What is this?
